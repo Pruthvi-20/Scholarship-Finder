@@ -34,5 +34,4 @@ A full-stack Scholarship Finder web application developed using **PHP**, **MySQL
 
 ---
 
-## 📁 Folder Structure (Example)
 
